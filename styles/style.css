@@ -1,0 +1,17 @@
+.parent{
+    background-color: blue;
+    padding: 15px;
+}
+.chld-1{
+    background-color: rgb(206, 40, 40);
+    display: inline-block;
+}
+.chld-2{
+    background-color: green;
+    display: inline-block;
+}
+.chld-3{
+    background-color: yellow;
+    display: inline-block;
+    padding: 20px;
+}
